@@ -3,6 +3,11 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* There will be an additional office hour on Monday, 8/10/18, 4-5pm, MLC if you need help with software installation or have general questions about the course
+
+* Links for lecture 1 slides, introductory Python material, and course software installation instructions can all be found on the course webpage.
+
+
 Codes, slides, exercises and solutions are (or will be) included in the course repo. Syncing your
 fork and then updating your clone (using *git pull*) will give you your own copy
 of all of these files.
