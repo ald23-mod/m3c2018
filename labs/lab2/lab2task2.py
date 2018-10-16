@@ -19,7 +19,7 @@ def brown1(Nt,M,dt=1):
     #1D Brownian motion: X_j+1 = X_j + sqrt(dt)*N(0,1)
     for i in range(M):
         for j in range(Nt):
-            X[i,j+1] = X[i,j+1] + np.sqrt(dt)*randn(1)
+            X[i,j+1] = X[i,j] + np.sqrt(dt)*randn(1)
 
     Xm = np.mean(X,axis=0)
     Xv = np.var(X,axis=0)
