@@ -3,6 +3,8 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 6/11/18: Homework 2 is online and can be found via the course webpage
+
 * 23/10/18: Homework 1 is online and can be found via the course webpage
 
 * 22/10/18: The posted coursework dates for M3C contained a few mistakes which have now been corrected: 1) The first coursework goes out tomorrow afternoon (Tuesday, 23/10)  and is due Friday, 2/11 (originally, this was 22/10-1/11). 2) Similar small adjustments have been made to the dates for the other assignments, the final correct dates are on the course webpage:  https://imperialm3c.bitbucket.io/assessment.html
