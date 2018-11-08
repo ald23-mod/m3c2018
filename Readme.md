@@ -3,6 +3,10 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 8/11/18: Please take a few minutes and complete the short, anonymous feedback form [here:](https://goo.gl/forms/q0Vq81pu1tbZCNlf1)
+
+* 8/11/18: The MLC machines now have an "Ubuntu Maths Linux" VM available via the Software Hub. This should be more stable and a little faster than the old VM. We are still waiting for a much faster VM to be installed in Huxley 408 and 410.
+
 * 6/11/18: Homework 2 is online and can be found via the course webpage
 
 * 23/10/18: Homework 1 is online and can be found via the course webpage
