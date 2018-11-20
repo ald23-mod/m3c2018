@@ -3,6 +3,8 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 20/11/18: Homework 3 is online and can be found via the course webpage.
+
 * 11/11/18: A correction has been added to homework 2 on the definition of the testing error (see the course webpage).
 
 * 11/11/18: Lab 5 solution codes have been added to the course repo; Homework 1 solutions have been
