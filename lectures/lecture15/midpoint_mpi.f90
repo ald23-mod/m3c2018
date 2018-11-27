@@ -66,7 +66,7 @@ program midpoint_p
 
     !output
     if (myid == 0) then
-        error = abs(sum - pi)
+        error = abs(sum_total - pi)
         print *, 'N=', N
         print *, 'sum=', sum_total
         print *, 'error=', error
