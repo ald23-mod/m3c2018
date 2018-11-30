@@ -3,6 +3,8 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 30/11/18: The final project is now online.
+
 * 25/11/18: The solution code for lab 7 has been added to the course repo, and HW2 solutions have been posted online
 along with supplementary material for MPI.
 
