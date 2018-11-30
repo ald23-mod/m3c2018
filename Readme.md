@@ -3,6 +3,9 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 25/11/18: The solution code for lab 7 has been added to the course repo, and HW2 solutions have been posted online
+along with supplementary material for MPI.
+
 * 20/11/18: Homework 3 is online and can be found via the course webpage.
 
 * 11/11/18: A correction has been added to homework 2 on the definition of the testing error (see the course webpage).
