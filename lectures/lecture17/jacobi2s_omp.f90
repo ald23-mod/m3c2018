@@ -32,9 +32,9 @@ subroutine jacobi2d_omp(n,Ubc,Dbc,Lbc,Rbc,S0,T)
 
     if (allocated(deltaT)) then
       deallocate(deltaT)
-      allocate(deltaT(kmax))
     end if
 
+    allocate(deltaT(kmax))
     pi = acos(-1.d0)
 
     !grid--------------
@@ -113,8 +113,9 @@ subroutine jacobi1d_omp(n,a,b,S0,T)
 
     if (allocated(deltaT)) then
       deallocate(deltaT)
-      allocate(deltaT(kmax))
     end if
+    
+    allocate(deltaT(kmax))
     pi = acos(-1.d0)
 
     !grid--------------
