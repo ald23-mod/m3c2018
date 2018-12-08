@@ -3,6 +3,9 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 6/12/18: A typo has been fixed in the "white update" equation for the AOS method in the notes on iterative methods.
+This is needed for part 3 of the project.
+
 * 4/12/18: A few clarifications on part 1 of the project have been added to the online description.
 
 * 30/11/18: The final project is now online.
