@@ -3,6 +3,8 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 9/12/18: Solutions for hw3 and lab 8 (part 1) have been posted
+
 * 6/12/18: A typo has been fixed in the "white update" equation for the AOS method in the notes on iterative methods.
 This is needed for part 3 of the project.
 
