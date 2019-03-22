@@ -23,9 +23,20 @@ def brown1(Nt,M,dt=1):
 
     Xm = np.mean(X,axis=0)
     Xv = np.var(X,axis=0)
-    return X,Xm,Xv
-
+    #Display results
+    plt.figure()
+    plt.plot(X[::40,:].T)
+    plt.plot(Xm,'k--')
+    plt.plot(np.sqrt(Xv),'r-.')
+    plt.show()
+    return X
 
 def analyze(display=False):
     """Complete this function to analyze simulation error
     """
+    brown1(20,100)
+    dt = 1
+    t = 100
+    for i in range(t):
+        error = abs(i-X[:,i])
+    return error

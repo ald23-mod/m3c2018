@@ -49,6 +49,7 @@ program midpoint_p
     iend = (myid+1) * Nper_proc
     if (iend>N) iend = N
 
+
     !loop over intervals computing each interval's contribution to integral
     do i1 = istart,iend
         xm = dx*(i1-0.5d0) !midpoint of interval i1
@@ -86,5 +87,3 @@ subroutine integrand(a,f)
     double precision, intent(out) :: f
     f = 4.0/(1.0 + a*a)
 end subroutine integrand
-
-
